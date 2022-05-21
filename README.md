@@ -1,10 +1,10 @@
 # Thuchanh2
 # Các thành viên: Phạm Tường Thụy, Vũ Thị Quỳnh, Trần Đình Hoan
 # Mô tả:
-   -Kết nối project với CSDL trên MySQL
-   -Tạo lớp thực thể tương ứng với table CSDL
-   -Sử dụng Spring Data JDBC tạo repository (productDB)
-   -Viết các lớp Controller và trang view(html)
+   - Kết nối project với CSDL trên MySQL
+   - Tạo lớp thực thể tương ứng với table CSDL
+   - Sử dụng Spring Data JDBC tạo repository (productDB)
+   - Viết các lớp Controller và trang view(html)
 
 # Phân chia công việc:
   - Phạm Tường Thụy: Làm 2 chức năng xem và thêm product gồm các Controller: ViewProducts, AddProductController, HomeController, các trang html: home, addProduct displayProducts;
