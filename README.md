@@ -11,3 +11,4 @@
   - Vũ Thị Quỳnh : Làm chức năng edit product gồm Controller: EditController và trang html: edit
   - Trần Đình Hoan: Làm chức năng remove product gồm Controller: RemoveController và trang html: remove
   - Mỗi người tự viết Repository trong file ProductDB để cập nhật kết quả trên csdl
+  - Tất cả thành viên đều chạy thử và chỉnh sửa
