@@ -12,3 +12,9 @@
   - Trần Đình Hoan: Làm chức năng remove product gồm Controller: RemoveController và trang html: remove
   - Mỗi người tự viết Repository trong file ProductDB để cập nhật kết quả trên csdl
   - Tất cả thành viên đều chạy thử và chỉnh sửa
+# Kết nối với CSDL trong MySql:
+   - Tạo một database mới với tên là products
+   - Mở file application.properties và viết các dòng sau:
+spring.datasource.url = jdbc:mysql://localhost:3306/products
+spring.datasource.username = tài khoản
+spring.datasource.password = mật khẩu
