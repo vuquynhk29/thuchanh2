@@ -1,5 +1,5 @@
 # Thuchanh2
-#Các thành viên: Phạm Tường Thụy, Vũ Thị Quỳnh, Trần Đình Hoan
+# Các thành viên: Phạm Tường Thụy, Vũ Thị Quỳnh, Trần Đình Hoan
 # Mô tả:
     - Kết nối project với CSDL trên MySQL
     - Tạo lớp thực thể tương ứng với table CSDL
